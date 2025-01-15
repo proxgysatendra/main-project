@@ -1,0 +1,3 @@
+[submodule "submodules/organization-management"]
+	path = submodules/organization-management
+	url = https://github.com/proxgysatendra/orgorganization_management.git
